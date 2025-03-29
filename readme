@@ -1,2 +1,3 @@
 Make sure you add .env file in backend
-MongoDB password
+MongoDB Password
+JWTSecret Token
