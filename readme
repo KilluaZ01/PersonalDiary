@@ -1,3 +1,6 @@
 Make sure you add .env file in backend
 MongoDB Password
 JWTSecret Token
+
+MONGO_URI=<Your URL>
+JWT_SECRET=<Your Token>
