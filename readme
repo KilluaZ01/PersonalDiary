@@ -4,3 +4,5 @@ JWTSecret Token
 
 MONGO_URI=<Your URL>
 JWT_SECRET=<Your Token>
+
+JWT Token can be created but mongodb token needs to be attained
